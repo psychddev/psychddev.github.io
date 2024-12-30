@@ -1,0 +1,9 @@
+header {
+    background-color: darkslategray;
+    margin: 0 0;
+    padding 0 0;
+}
+header h1{
+    text-align: center;
+    color: antiquewhite;
+}
